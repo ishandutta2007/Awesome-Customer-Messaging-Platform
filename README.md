@@ -70,9 +70,9 @@ The following table summarizes the market leaders in hosted customer messaging, 
 
 ## 💻 Top Open-Source GitHub Projects
 
-The table below lists notable open-source customer messaging platforms, self-hosted shared inboxes, and live chat engines, **sorted in descending order by GitHub Stars**:
+The table below lists notable open-source customer messaging platforms, self-hosted shared inboxes, and live chat engines, **sorted in descending order by GitHub_Stars**:
 
-| Project / Repository | GitHub Stars 🌟 | Primary Stack 🛠️ | License 📄 | Architecture & Highlights 🚀 |
+| Project / Repository | GitHub_Stars 🌟 | Primary Stack 🛠️ | License 📄 | Architecture & Highlights 🚀 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** | [![Rocket.Chat Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) | TypeScript, Node.js, MongoDB | MIT / EE | Enterprise communications platform with dedicated omnichannel customer live chat widget, video conferencing, Matrix federation, and strict compliance controls (HIPAA, GDPR). |
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Chatwoot Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Ruby on Rails, Vue.js, PostgreSQL | MIT / EE | Turnkey open-source customer engagement platform and Intercom alternative. Features live chat widgets, shared team inboxes, WhatsApp Business, SMS, Facebook Messenger, and Dialogflow/Rasa AI bots. |
