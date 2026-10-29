@@ -4,11 +4,12 @@
 
 # 💬 Awesome Customer Messaging Platform Ecosystem
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Tracked Repos](https://img.shields.io/badge/Open--Source%20Projects-9%2B-blueviolet.svg?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Customer-Messaging-Platform)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Tracked Repos](https://img.shields.io/badge/Open--Source%20Projects-12-blueviolet.svg?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Customer-Messaging-Platform)
 [![SaaS Leaders](https://img.shields.io/badge/SaaS%20Platforms-10-blue.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Customer-Messaging-Platform)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **A curated directory of top-tier SaaS customer messaging platforms and standout open-source self-hosted solutions for live chat, shared inboxes, omnichannel support, and AI chatbots.**
 
@@ -22,6 +23,8 @@
 - [💻 Top Open-Source GitHub Projects](#-top-open-source-github-projects)
 - [🔍 Architectural Insights: SaaS vs Self-Hosted](#-architectural-insights-saas-vs-self-hosted)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & Compliance](#-disclaimer--compliance)
 
 ---
@@ -111,6 +114,24 @@ We welcome additions, corrections, and updates from the open-source and customer
 3. 📝 **Add or update entries** in `README.md` maintaining table formatting, pricing precision, and stargazer badge links.
 4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTool to open-source table"`).
 5. 📬 **Submit a Pull Request** with a concise summary of the project.
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and using this curated customer messaging platform repository! 🙏
+
+If you found this ecosystem overview, market insights, or open-source list useful, please consider:
+- ⭐ **Starring** this repository to help others discover it.
+- 🍴 **Forking** and contributing additional projects or updates.
+- 📢 **Sharing** with fellow engineers, founders, and product teams.
+- ☕ **Buying a coffee / sponsoring** the author via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) to support continuous maintenance of open-source research and awesome lists!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Messaging-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Messaging-Platform&type=date&legend=top-left)
 
 ---
 
